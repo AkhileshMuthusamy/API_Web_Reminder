@@ -1,0 +1,20 @@
+{
+  "name": "reminder",
+  "version": "1.0.0",
+  "description": "Web reminder using linux cron",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cron",
+    "reminder"
+  ],
+  "author": "Akhilesh Muthusamy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "shelljs": "^0.8.3"
+  }
+}

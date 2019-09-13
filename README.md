@@ -1,2 +1,3 @@
-# API_Web_Reminder
+# API: Ubuntu Web Reminder
+
 Manages Ubuntu Desktop notification
